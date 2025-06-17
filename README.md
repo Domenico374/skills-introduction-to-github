@@ -24,7 +24,7 @@ Presto saranno pubblicati anche su GitHub!
 | 🎯 **Fantateam**     | App per gestire il fantacalcio: login, punteggi, rose personalizzate e mercato |
 | 🧠 **Storygen**      | Generatore di storie illustrate con AI: testo + immagini, stile fiaba o fumetto |
 | 🏰 **Castello Kids** | App educativa e turistica per bambini sul quartiere di Castello a Cagliari |
-| 📊 **Analisi AGCOM** | Modello AI per classificare e suggerire esiti nelle delibere normative |
+
 
 
 ---
