@@ -1,4 +1,6 @@
-# 👋 Ciao! Sono Domenico
+# 👋 Ciao! Sono Domenico 
+https://github.com/Domenico374/skills-introduction-to-github/blob/main/1000267967.jpg?raw=true
+
 
 Benvenuto nel mio sito personale realizzato con GitHub Pages!  
 Mi sto dilettando a creare **storytelling**, **piccoli fumetti** e **vignette motivazionali**.  
