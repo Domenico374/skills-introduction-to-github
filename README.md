@@ -14,7 +14,7 @@ Sto imparando:
 - 🎨 **Figma**, per progettare interfacce e layout
 - 🤖 Tecnologie AI per supportare la creatività
 
--## 🚧 Progetti in corso
+## 🚧 Progetti in corso
 
 Sto lavorando su alcuni progetti creativi e tecnologici, attualmente in fase di sviluppo su Google Drive.  
 Presto saranno pubblicati anche con codice e demo su GitHub!
