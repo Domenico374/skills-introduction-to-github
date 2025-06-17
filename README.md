@@ -14,16 +14,16 @@ Sto imparando:
 - 🎨 **Figma**, per progettare interfacce e layout
 - 🤖 Tecnologie AI per supportare la creatività
 
-- ## 🚧 Progetti in corso
+-## 🚧 Progetti in corso
 
 Sto lavorando su alcuni progetti creativi e tecnologici, attualmente in fase di sviluppo su Google Drive.  
-Presto saranno pubblicati anche su GitHub!
+Presto saranno pubblicati anche con codice e demo su GitHub!
 
-| 🗂️ Progetto      | 💡 Descrizione |
-|------------------|----------------|
-| 🎯 **Fantateam**     | App per gestire il fantacalcio: login, punteggi, rose personalizzate e mercato |
-| 🧠 **Storygen**      | Generatore di storie illustrate con AI: testo + immagini, stile fiaba o fumetto |
-| 🏰 **Castello Kids** | App educativa e turistica per bambini sul quartiere di Castello a Cagliari |
+| 📁 Progetto | 💡 Descrizione |
+|------------|----------------|
+| [🎯 Fantateam](https://github.com/Domenico374/fantateam) | App per gestire il fantacalcio: login, punteggi, rose personalizzate e mercato |
+| [🧠 Storygen](https://github.com/Domenico374/storygen) | Generatore di storie illustrate con AI: testo + immagini, stile fiaba o fumetto |
+| [🏰 Castello Kids](https://github.com/Domenico374/castello-kids) | App educativa e turistica per bambini sul quartiere di Castello a Cagliari |
 
 
 
