@@ -14,6 +14,19 @@ Sto imparando:
 - 🎨 **Figma**, per progettare interfacce e layout
 - 🤖 Tecnologie AI per supportare la creatività
 
+- ## 🚧 Progetti in corso
+
+Sto lavorando su alcuni progetti creativi e tecnologici, attualmente in fase di sviluppo su Google Drive.  
+Presto saranno pubblicati anche su GitHub!
+
+| 🗂️ Progetto      | 💡 Descrizione |
+|------------------|----------------|
+| 🎯 **Fantateam**     | App per gestire il fantacalcio: login, punteggi, rose personalizzate e mercato |
+| 🧠 **Storygen**      | Generatore di storie illustrate con AI: testo + immagini, stile fiaba o fumetto |
+| 🏰 **Castello Kids** | App educativa e turistica per bambini sul quartiere di Castello a Cagliari |
+| 📊 **Analisi AGCOM** | Modello AI per classificare e suggerire esiti nelle delibere normative |
+
+
 ---
 
 ## 📬 Contattami
