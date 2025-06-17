@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/Domenico374/skills-introduction-to-github/blob/main/1000267967.jpg?raw=true" width="800"/>
 </p>
+> *"Un viaggio creativo tra codice, illustrazioni e ispirazione AI."*
 
 
 
